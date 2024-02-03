@@ -1,4 +1,4 @@
-- name: Package OpenWrt Firmware
+- name: Firmwareop
   uses: ophub/flippy-openwrt-actions@main
   env:
     OPENWRT_ARMVIRT: openwrt/bin/targets/*/*/*.tar.gz
